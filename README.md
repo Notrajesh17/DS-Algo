@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Notrajesh17/DS-Algo/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Notrajesh17/DS-Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Notrajesh17/DS-Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Notrajesh17/DS-Algo/tree/master/1260-shift-2d-grid) |
+## String
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
