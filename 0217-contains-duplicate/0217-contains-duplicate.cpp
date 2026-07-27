@@ -7,11 +7,7 @@ public:
         for(int i=0; i<nums.size(); i++)
         {
             mp[nums[i]]++;
-        }
-        
-        for(auto it : mp)
-        {
-            if(it.second>=2)
+            if(mp[nums[i]]>1)
             {
                 return true;
             }
