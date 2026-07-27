@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Notrajesh17/DS-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Notrajesh17/DS-Algo/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Notrajesh17/DS-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
