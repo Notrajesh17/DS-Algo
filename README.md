@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/Notrajesh17/DS-Algo/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
@@ -136,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Notrajesh17/DS-Algo/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Notrajesh17/DS-Algo/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Notrajesh17/DS-Algo/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
