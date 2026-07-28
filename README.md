@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/Notrajesh17/DS-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Notrajesh17/DS-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Notrajesh17/DS-Algo/tree/master/0295-find-median-from-data-stream) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Notrajesh17/DS-Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Notrajesh17/DS-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -145,8 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Notrajesh17/DS-Algo/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Notrajesh17/DS-Algo/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Notrajesh17/DS-Algo/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Notrajesh17/DS-Algo/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
