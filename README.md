@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Notrajesh17/DS-Algo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Notrajesh17/DS-Algo/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -45,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Notrajesh17/DS-Algo/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Notrajesh17/DS-Algo/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Notrajesh17/DS-Algo/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Notrajesh17/DS-Algo/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
