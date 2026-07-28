@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/Notrajesh17/DS-Algo/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Notrajesh17/DS-Algo/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Notrajesh17/DS-Algo/tree/master/0127-word-ladder) |
 | [2685-count-the-number-of-complete-components](https://github.com/Notrajesh17/DS-Algo/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Notrajesh17/DS-Algo/tree/master/0127-word-ladder) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
