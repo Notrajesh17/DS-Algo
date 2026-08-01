@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Notrajesh17/DS-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Notrajesh17/DS-Algo/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Notrajesh17/DS-Algo/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Notrajesh17/DS-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Notrajesh17/DS-Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Notrajesh17/DS-Algo/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Notrajesh17/DS-Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -213,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
