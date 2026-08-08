@@ -10,6 +10,7 @@ public:
         while(temp>0)
         {
             int digit = temp%10;
+            
             number = number*10 + digit;
             temp = temp/10;
         }
