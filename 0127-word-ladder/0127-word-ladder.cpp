@@ -18,13 +18,16 @@ public:
             for(int i=0; i<word.size(); i++)
             {
                 char orign = word[i];
+                
 
                 for(char ch='a'; ch<='z'; ch++)
                 {
                     word[i]=ch;
+                    
                     if(st.find(word) != st.end())
                     {
                         q.push({word,steps+1});
+                        
                         st.erase(word);
                     }
                 }
