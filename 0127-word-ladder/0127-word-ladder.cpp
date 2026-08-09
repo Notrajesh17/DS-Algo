@@ -27,6 +27,9 @@ public:
                     if(st.find(word) != st.end())
                     {
                         q.push({word,steps+1});
+
+
+                        
                         
                         st.erase(word);
                     }
