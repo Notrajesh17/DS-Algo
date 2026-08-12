@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Notrajesh17/DS-Algo/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Notrajesh17/DS-Algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Notrajesh17/DS-Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Notrajesh17/DS-Algo/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Notrajesh17/DS-Algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Notrajesh17/DS-Algo/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Notrajesh17/DS-Algo/tree/master/1406-stone-game-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Notrajesh17/DS-Algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
