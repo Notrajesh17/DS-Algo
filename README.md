@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Notrajesh17/DS-Algo/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Notrajesh17/DS-Algo/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Notrajesh17/DS-Algo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Notrajesh17/DS-Algo/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Notrajesh17/DS-Algo/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Notrajesh17/DS-Algo/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Notrajesh17/DS-Algo/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Notrajesh17/DS-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Notrajesh17/DS-Algo/tree/master/0877-stone-game) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Notrajesh17/DS-Algo/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Notrajesh17/DS-Algo/tree/master/1260-shift-2d-grid) |
 ## String
