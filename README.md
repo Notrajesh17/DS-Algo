@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Notrajesh17/DS-Algo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Notrajesh17/DS-Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Notrajesh17/DS-Algo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Notrajesh17/DS-Algo/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Notrajesh17/DS-Algo/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/Notrajesh17/DS-Algo/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Notrajesh17/DS-Algo/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Notrajesh17/DS-Algo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Notrajesh17/DS-Algo/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Notrajesh17/DS-Algo/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Notrajesh17/DS-Algo/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Notrajesh17/DS-Algo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Notrajesh17/DS-Algo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
