@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Notrajesh17/DS-Algo/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Notrajesh17/DS-Algo/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Notrajesh17/DS-Algo/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Notrajesh17/DS-Algo/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/0940-distinct-subsequences-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Notrajesh17/DS-Algo/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Notrajesh17/DS-Algo/tree/master/0127-word-ladder) |
 | [0940-distinct-subsequences-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/0940-distinct-subsequences-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
