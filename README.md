@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Notrajesh17/DS-Algo/tree/master/0127-word-ladder) |
 | [0940-distinct-subsequences-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Notrajesh17/DS-Algo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Notrajesh17/DS-Algo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Notrajesh17/DS-Algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Notrajesh17/DS-Algo/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -316,8 +317,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Notrajesh17/DS-Algo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Notrajesh17/DS-Algo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Notrajesh17/DS-Algo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Notrajesh17/DS-Algo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
